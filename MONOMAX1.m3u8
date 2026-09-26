@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
-https://movieproxy.tawatchai250958.workers.dev/watch?id=monomax1
-
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=115757&extension=m3u8
